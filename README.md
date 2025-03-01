@@ -36,7 +36,7 @@ Deployment: Local Execution via streamlit run app.py
 
 📌 Step 1: Clone the Repository
 
-git clone https://github.com/yourusername/payment-discrepancy-system.git
+git clone https://github.com/DataFinFreak/payment-discrepancy-system.git
 cd payment-discrepancy-system
 
 📌 Step 2: Install Dependencies
@@ -116,6 +116,8 @@ python send_email.py
 ### 4️⃣ Contributing
 
 Want to improve this project? Feel free to fork and submit a pull request!
+
+Youtube - https://youtu.be/3PWY-E3Ung8
 
 ### 5️⃣ License
 
